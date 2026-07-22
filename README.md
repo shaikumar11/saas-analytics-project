@@ -106,9 +106,12 @@ npm run dev
 
 ## 📸 Screenshots
 
-> _Add a screenshot or GIF of the dashboard here, e.g.:_
-> `![Dashboard demo](docs/dashboard-demo.gif)`
+## 📸 Screenshots
 
+### Executive Overview
+![Executive Overview Dashboard](docs/dashboard-preview.png)
+
+Live PostgreSQL-backed metrics — Annual Run Rate, MRR, Active Customers, Monthly Churn, 6-Month Retention, and Revenue per Account — with AI-generated insights on demand.
 ---
 
 ## 🧠 What This Project Demonstrates
