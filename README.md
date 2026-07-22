@@ -106,7 +106,6 @@ npm run dev
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
 
 ### Executive Overview
 ![Executive Overview Dashboard](docs/dashboard-preview.png)
