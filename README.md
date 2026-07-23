@@ -108,7 +108,7 @@ npm run dev
 
 
 ### Executive Overview
-![Executive Overview Dashboard](docs/dashboard-preview.png)
+![Executive Overview Dashboard](data/dashboard.png)
 
 Live PostgreSQL-backed metrics — Annual Run Rate, MRR, Active Customers, Monthly Churn, 6-Month Retention, and Revenue per Account — with AI-generated insights on demand.
 ---
