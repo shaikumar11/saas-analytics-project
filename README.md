@@ -5,7 +5,12 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat-square&logo=postgresql)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=flat-square&logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+# SaaS Analytics Project
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d698228e-7d08-4be4-bce4-f2241a78b179/deploy-status)](https://app.netlify.com/projects/saas-analytic/deploys)
+
+🔗 **Live Demo:** [saas-analytic.netlify.app](https://saas-analytic.netlify.app)
+
 A full-stack analytics platform that simulates real SaaS product data (users, subscriptions, feature usage) and surfaces key growth metrics — MRR trend, monthly churn, and cohort retention — through an interactive dashboard, with an AI layer that generates grounded executive summaries from the live data.
 
 ---
